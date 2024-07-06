@@ -70,7 +70,7 @@ $ npm start
 
 ¿Cansado ya de los servidores lentos, caros y con mal servicio, buscas dónde hostear este bot? ¡te tenemos la solución!
 
-Infinity-host es la mejor opción para comprar servidores en este año, no te pierdas de este host wue te ofrece buenos precios, buen rendimiento y el mejor soporte de todos! compra ya
+Infinity-host es la mejor opción para comprar servidores en este año, no te pierdas de este host que te ofrece buenos precios, buen rendimiento y el mejor soporte de todos! compra ya
 
 ---------
 * Create una cuenta  [`aquí`](https://dashboard.infinitywa.xyz/register?ref=vWWj2UhL)
