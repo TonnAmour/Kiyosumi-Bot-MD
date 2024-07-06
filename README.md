@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=TonnAmour&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/TonnAmour"><img title="Author" src="https://img.shields.io/badge/Senna Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/TonnAmour"><img title="Author" src="https://img.shields.io/badge/Kiyosumi Bot-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/FG98F?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
