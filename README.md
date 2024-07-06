@@ -64,17 +64,18 @@ $ npm start
 ---------
 
 
-## BOXMINE
+## INFINITY-HOST
 
 
 
-Instale el bot para que este activo 24/7
+¿Cansado ya de los servidores lentos, caros y con mal servicio, buscas dónde hostear este bot? ¡te tenemos la solución!
+
+Infinity-host es la mejor opción para comprar servidores en este año, no te pierdas de este host wue te ofrece buenos precios, buen rendimiento y el mejor soporte de todos! compra ya
 
 ---------
-* Create una cuenta  [`aquí`](https://dash.boxmineworld.com/register?ref=Mb0BN5ny)
-* Tutorial [`Click Aquí`](https://youtu.be/Vzk_X45bDIw?si=1UNQWa2B9w-xyBSm)
+* Create una cuenta  [`aquí`](https://dashboard.infinitywa.xyz/register?ref=vWWj2UhL)
 
-* Dashboard [`Click aquí`](https://dash.boxmineworld.com)
-* Panel [`Click aquí`](https://panel.boxmineworld.com/)
+* Dashboard [`Click aquí`](https://dashboard.infinitywa.xyz/home)
+* Panel [`Click aquí`](https://store.panel-infinitywa.store/)
 
 ---------
