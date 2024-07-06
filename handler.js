@@ -38,6 +38,7 @@ export async function handler(chatUpdate) {
         m.coin = 0
         m.diamond = false
         m.banc = 0
+        m.bank = 0
         try {
             // TODO: use loop to insert data instead of this
             let user = global.db.data.users[m.sender]
@@ -52,6 +53,8 @@ export async function handler(chatUpdate) {
                     user.diamond = 20
                 if (!isNumber(user.bank))
                     user.bank = 0
+                if (!isNumber(user.banc))
+                    user.banc = 0
                 if (!isNumber(user.lastclaim))
                     user.lastclaim = 0
                 if (!('registered' in user))
