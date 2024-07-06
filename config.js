@@ -33,6 +33,7 @@ global.fgsc = 'https://whatsapp.com/channel/0029VaYTBn3DZ4LaHbgzxw0B'
 global.fgyt = 'https://whatsapp.com/channel/0029VaYTBn3DZ4LaHbgzxw0B'
 global.fgpyp = 'https://whatsapp.com/channel/0029VaYTBn3DZ4LaHbgzxw0B'
 global.fglog = 'https://whatsapp.com/channel/0029VaYTBn3DZ4LaHbgzxw0B' 
+global.canal1 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
 
 //--- Grupos WA
 global.id_canal = '120363292409483536@newsletter' //-ID de canal de WhatsApp
